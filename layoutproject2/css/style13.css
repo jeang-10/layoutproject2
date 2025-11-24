@@ -1,0 +1,31 @@
+.container{
+display: flex;
+margin: 0;
+justify-content: center;
+}
+.left-item{ 
+  width:600px ;
+    height: 600px;
+    background-color: yellow;
+    margin-right: 40px;
+    
+}
+.right-items{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+.first-right{ 
+    width: 600px;
+    height: 280px;
+    background-color: blue;
+    margin-bottom: 20px;
+
+}
+.second-right{
+    width:600px ;
+    height: 280px;
+    background-color: darkgray;
+    margin-bottom: 0;
+
+}

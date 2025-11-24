@@ -1,0 +1,42 @@
+
+  .container{
+    display: flex;
+    height: 200px;
+    flex-direction:column;
+    margin: 70px;
+    
+  }   
+
+.header{
+    background-color: goldenrod;
+    padding: 80px;
+    margin-bottom: 20px;
+    border: 1px black solid;
+
+}
+.aside-main{
+    display: flex;
+    margin-bottom: 20px;    
+}
+.aside{
+    flex: content;
+    background-color:darkgray ;
+    padding: 80px;
+    border: 1px black solid;
+    
+}
+.main{
+    flex:content;
+    background-color: darkgray;
+    padding: 80px;
+    border: 1px black solid;
+    
+
+}
+.footer{
+    background-color: cornflowerblue;
+    padding: 80px;
+    border: 1px black solid;
+    margin-bottom: 40px; ;
+    
+}

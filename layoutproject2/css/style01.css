@@ -1,0 +1,28 @@
+.container{ 
+    display: flex;
+    flex-direction:row;
+    
+
+    }
+.container-item { 
+    height: 600px;
+    width: 500px;
+    
+
+}
+
+.header{ 
+    background-color: chocolate ;
+    text-align: left;
+
+
+}
+.main{ 
+    background-color: gray;
+    text-align: center;
+    
+}
+.footer{ 
+    background-color: cornflowerblue;
+    text-align: right;
+}

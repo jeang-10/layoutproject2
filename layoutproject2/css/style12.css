@@ -1,0 +1,23 @@
+.container{
+    display: flex;}
+    
+
+
+
+.container-item { 
+width: 500px;
+height: 700px;
+margin: 20px;
+
+}
+.header{
+    background-color: yellow;
+    
+}
+.main{
+    background-color: darkgray;
+    
+}
+.footer{
+    background-color: aqua;}
+    
